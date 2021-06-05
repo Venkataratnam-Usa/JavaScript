@@ -1,0 +1,37 @@
+{
+    "data": {
+      "img": "images/usa.jpeg",
+      "name": "Venkataratnam Usa",
+      "courses": ["HTML", "CSS", "JS", "BOOTSTRAP", "ES6", "JAVA", "PYTHON"]
+    },
+    "Trainers": [
+      {
+        "Name": "Name: Venkat",
+        "PhoneNumber": "Phone Number: 7675921815",
+        "Salary": "Salary: 45000",
+        "w": "Occupation: Web Developer",
+        "img": "images/usa.jpeg"
+      },
+      {
+        "Name": "Name: Tiger Shroff",
+        "PhoneNumber": "Phone Number: 9491237333",
+        "Salary": "Salary: 50000",
+        "w": "Occupation: Loco Pilot",
+        "img": "images/tiger shroff.jpg"
+      },
+      {
+        "Name": "Name: Prem Kapoor",
+        "PhoneNumber": "Phone Number: 9963350335",
+        "Salary": "Salary: 45000",
+        "w": "Occupation:Doctor",
+        "img": "images/doctor.jpg"
+      },
+      {
+        "Name": "Name: Baahubali",
+        "PhoneNumber": "Phone Number: 8332903181",
+        "Salary": "Salary: 50000",
+        "w": "Occupation: Electrician",
+        "img": "images/baahubali.jpeg"
+      }
+    ]
+  }
